@@ -1,4 +1,4 @@
-# ✨ Stadium Hub Panel
+# ✨ Stadium Hub Front
 
 - [Environment](##environment)
 - [Installation](##installation)
